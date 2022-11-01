@@ -1,0 +1,17 @@
+img{
+    width: 45%;
+}
+
+.titulo{
+    font-family: "Hylia Serif", serif;
+    color: #D9CF4A;
+    font-size: 40px;
+    
+    text-align: center;
+    
+}
+.subtitulo{
+    font-family: "Hylia serif", serif;
+    color: #ddd;
+    text-align: center;
+}
